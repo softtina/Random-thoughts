@@ -1,2 +1,3 @@
 # Random-thoughts
-My first personal project: a tiny random thought generator 
+A tiny random thought generator 
+Check out my project live here: https://softtina.github.io/Random-thoughts/
